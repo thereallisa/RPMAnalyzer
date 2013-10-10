@@ -1,7 +1,7 @@
 RPMAnalyzer
 ==============
 
-Quickly written Java utility that traverses through log files in a given directory and prints out the max and average requests received by minute and by second.
+Quickly written Java utility that traverses through log files in a given directory and prints out the max and average requests received by minute and by second.  It is assumed that each log file contains requests for only one day.
 
 Usage
 -----
