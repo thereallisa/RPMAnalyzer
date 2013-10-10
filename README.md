@@ -10,7 +10,9 @@ In order for the program to run, you will need to specify the following paramete
 
 Example
 -------
+```
 $ javac Analyze.java
 $ java Analyze "/Users/thereallisa/Desktop/myLogFiles"
 per minute  max = 81; average = 12
 per second  max = 8; average = 1
+```
